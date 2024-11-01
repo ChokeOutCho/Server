@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JSC\\source\\repos\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C45B25-8939-43C6-B72D-0C4809EFC4CC}|DummyClient\\DummyClient.vcxproj|C:\\Users\\JSC\\source\\repos\\Server\\DummyClient\\DummyClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7C45B25-8939-43C6-B72D-0C4809EFC4CC}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\DummyClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C45B25-8939-43C6-B72D-0C4809EFC4CC}|DummyClient\\DummyClient.vcxproj|C:\\Users\\JSC\\source\\repos\\Server\\DummyClient\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7C45B25-8939-43C6-B72D-0C4809EFC4CC}|DummyClient\\DummyClient.vcxproj|solutionrelative:DummyClient\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491B49B3-3110-4732-B45C-2EBDBA8F5387}|GameServer\\GameServer.vcxproj|C:\\Users\\JSC\\source\\repos\\Server\\GameServer\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{491B49B3-3110-4732-B45C-2EBDBA8F5387}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B5F838-64D1-4BA8-B4EC-0567E99071D5}|ServerCore\\ServerCore.vcxproj|C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\CorePch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36B5F838-64D1-4BA8-B4EC-0567E99071D5}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CorePch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491B49B3-3110-4732-B45C-2EBDBA8F5387}|GameServer\\GameServer.vcxproj|C:\\Users\\JSC\\source\\repos\\Server\\GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{491B49B3-3110-4732-B45C-2EBDBA8F5387}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B5F838-64D1-4BA8-B4EC-0567E99071D5}|ServerCore\\ServerCore.vcxproj|C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36B5F838-64D1-4BA8-B4EC-0567E99071D5}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B5F838-64D1-4BA8-B4EC-0567E99071D5}|ServerCore\\ServerCore.vcxproj|C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\CorePch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36B5F838-64D1-4BA8-B4EC-0567E99071D5}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CorePch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B5F838-64D1-4BA8-B4EC-0567E99071D5}|ServerCore\\ServerCore.vcxproj|C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36B5F838-64D1-4BA8-B4EC-0567E99071D5}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B5F838-64D1-4BA8-B4EC-0567E99071D5}|ServerCore\\ServerCore.vcxproj|C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36B5F838-64D1-4BA8-B4EC-0567E99071D5}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\JSC\\source\\repos\\Server\\DummyClient\\pch.h",
+              "RelativeDocumentMoniker": "DummyClient\\pch.h",
+              "ToolTip": "C:\\Users\\JSC\\source\\repos\\Server\\DummyClient\\pch.h",
+              "RelativeToolTip": "DummyClient\\pch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T07:10:09.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DummyClient.cpp",
+              "DocumentMoniker": "C:\\Users\\JSC\\source\\repos\\Server\\DummyClient\\DummyClient.cpp",
+              "RelativeDocumentMoniker": "DummyClient\\DummyClient.cpp",
+              "ToolTip": "C:\\Users\\JSC\\source\\repos\\Server\\DummyClient\\DummyClient.cpp",
+              "RelativeToolTip": "DummyClient\\DummyClient.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T06:45:29.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\JSC\\source\\repos\\Server\\GameServer\\pch.h",
+              "RelativeDocumentMoniker": "GameServer\\pch.h",
+              "ToolTip": "C:\\Users\\JSC\\source\\repos\\Server\\GameServer\\pch.h",
+              "RelativeToolTip": "GameServer\\pch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T07:02:21.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameServer.cpp",
+              "DocumentMoniker": "C:\\Users\\JSC\\source\\repos\\Server\\GameServer\\GameServer.cpp",
+              "RelativeDocumentMoniker": "GameServer\\GameServer.cpp",
+              "ToolTip": "C:\\Users\\JSC\\source\\repos\\Server\\GameServer\\GameServer.cpp",
+              "RelativeToolTip": "GameServer\\GameServer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T06:45:09.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CorePch.cpp",
+              "DocumentMoniker": "C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\CorePch.cpp",
+              "RelativeDocumentMoniker": "ServerCore\\CorePch.cpp",
+              "ToolTip": "C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\CorePch.cpp",
+              "RelativeToolTip": "ServerCore\\CorePch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T06:46:41.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\pch.h",
+              "RelativeDocumentMoniker": "ServerCore\\pch.h",
+              "ToolTip": "C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\pch.h",
+              "RelativeToolTip": "ServerCore\\pch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T06:54:11.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorePch.h",
+              "DocumentMoniker": "C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\CorePch.h",
+              "RelativeDocumentMoniker": "ServerCore\\CorePch.h",
+              "ToolTip": "C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\CorePch.h",
+              "RelativeToolTip": "ServerCore\\CorePch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T06:46:40.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\pch.cpp",
+              "RelativeDocumentMoniker": "ServerCore\\pch.cpp",
+              "ToolTip": "C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\pch.cpp",
+              "RelativeToolTip": "ServerCore\\pch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T06:54:12.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Types.h",
+              "DocumentMoniker": "C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\Types.h",
+              "RelativeDocumentMoniker": "ServerCore\\Types.h",
+              "ToolTip": "C:\\Users\\JSC\\source\\repos\\Server\\ServerCore\\Types.h",
+              "RelativeToolTip": "ServerCore\\Types.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T06:47:09.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
